@@ -3,8 +3,8 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In this lab we're going to walk through how to create an Active Directory home lab Enviornmet using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows networking works, so I'd highhly recommend running through it a couple of times, ask questions where stuff is unclear, and eventually try to build it on your without watching. Please let me know if you have any questions!
-<br />
+In this lab we're going to walk through how to create an Active Directory home lab Enviornmet using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows networking works, so I'd highhly recommend running through it a couple of times, ask questions where stuff is unclear, and eventually try to build it on your without watching. Also if you scroll down there is a program walk through on how to setup Group Policy Mangement through Active Drirectory. Please let me know if you have any questions!
+<br/>
 
 
 <h2>Languages and Utilities Used</h2>
