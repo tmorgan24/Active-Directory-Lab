@@ -21,7 +21,21 @@ Step 1: Download VirtualBox
 
 <img width="3903" height="2122" alt="ct4b6lB - Imgur" src="https://github.com/user-attachments/assets/3660ae75-f384-4f65-b118-3618b86bc013" />
 
-Step 2: 
+Step 2: Download Windows 11 Disk Image (ISO) for x64 devices
+
+<img width="3915" height="2496" alt="aoG2G7R - Imgur" src="https://github.com/user-attachments/assets/343effb4-24e9-4c10-be41-0fc1ad7d0efd" />
+
+Step 3: Download Windows Server 2019 ISO for x64 devices
+
+<img width="3931" height="2260" alt="dwrIXVy - Imgur" src="https://github.com/user-attachments/assets/5b0ef74c-6d1b-47b4-917b-80fe062e4506" />
+
+Step 4: Go to Virtual Box. Click on New. Rename the new VM in this example to DC (Domain Controller) and change the OS Verison to Other Windows (64 bit) and then click on Finish.
+
+
+
+
+
+
 
 <h2>Program walk-through: Group Policy Management Setting Up Password Policy</h2>
 
