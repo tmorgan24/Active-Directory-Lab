@@ -12,8 +12,8 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
-- <b>Server 2019</b>
+- <b>Windows 11 ISO x64 devices</b> 
+- <b>Server 2019 ISO x64 devices</b>
 
 <h2>Program walk-through: Setting Up Active Directory
 
@@ -31,6 +31,17 @@ Step 3: Download Windows Server 2019 ISO for x64 devices
 
 Step 4: Go to Virtual Box. Click on New. Rename the new VM in this example to DC (Domain Controller) and change the OS Verison to Other Windows (64 bit) and then click on Finish.
 
+<img width="4032" height="3024" alt="V2j15lt - Imgur" src="https://github.com/user-attachments/assets/68a21961-730b-4acb-a303-b203d37da23a" />
+
+Step 5: Click on Settings, then in the General tab click on Features, then click on Shared Clickboard in the drop down click on bidirectional. Under the Drag and Drop tab click on bidirectional as well
+
+<img width="4031" height="2639" alt="epI0fnP - Imgur" src="https://github.com/user-attachments/assets/33d4c97b-2894-49d9-a563-486b1f4e0c4e" />
+
+
+Step 6: Click on Systems and under Motherboard tab next to base memory type in 2048. Then go to Processor Tab and type in 4 in the Processor box.
+
+<img width="4032" height="2554" alt="1hdC49B - Imgur" src="https://github.com/user-attachments/assets/946f5ce4-7145-4b24-aab8-6672117563a5" />
+<img width="4032" height="2611" alt="4E35mtW - Imgur" src="https://github.com/user-attachments/assets/d0a12508-fc09-4b6d-8220-0e709f0b01b3" />
 
 
 
