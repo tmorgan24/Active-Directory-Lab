@@ -1,8 +1,6 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
-<h2>Description</h2>
+ <h2>Description</h2>
 In this lab we're going to walk through how to create an Active Directory home lab Enviornmet using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows networking works, so I'd highhly recommend running through it a couple of times, ask questions where stuff is unclear, and eventually try to build it on your without watching. Also if you scroll down there is a program walk through on how to setup Group Policy Mangement through Active Drirectory. Please let me know if you have any questions!
 <br/>
 
@@ -16,7 +14,16 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 - <b>Windows 11</b> (21H2)
 - <b>Server 2019</b>
-<h2>Program walk-through: Group Policy Management</h2>
+
+<h2>Program walk-through: Setting Up Active Directory
+
+Step 1: Download VirtualBox 
+
+<img width="3903" height="2122" alt="ct4b6lB - Imgur" src="https://github.com/user-attachments/assets/3660ae75-f384-4f65-b118-3618b86bc013" />
+
+Step 2: 
+
+<h2>Program walk-through: Group Policy Management Setting Up Password Policy</h2>
 
 
 Step 1: Go to the start icon and click on it  <br/>
