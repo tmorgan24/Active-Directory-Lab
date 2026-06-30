@@ -48,6 +48,20 @@ Step 7: We are creating our Domain Control so we want to have two NICs. We want 
 <img width="3915" height="2573" alt="DrxCVbT - Imgur" src="https://github.com/user-attachments/assets/96c65994-4e40-414c-849c-afba91dca704" />
 <img width="4032" height="2766" alt="1aZ5d6W - Imgur" src="https://github.com/user-attachments/assets/15c17bf7-713d-47b0-b58e-18885050433c" />
 
+Step 8: Double click on DC VM on the left hand side. Once it comes up click on the drop box and select Other and then Windows 2019 ISO (it will be called some kind of weird name lol). Then click open. Click on Mount and Retry Boot if it shows up on your screen and it will take some time to load.
+
+<img width="4032" height="2759" alt="bOHRGWj - Imgur" src="https://github.com/user-attachments/assets/0fdfa848-d434-41e9-909f-b39ec3e4183f" />
+<img width="4032" height="2671" alt="8drwiX8 - Imgur" src="https://github.com/user-attachments/assets/0cf2fc0e-d275-43f0-9853-66a3278a9f73" />
+<img width="4032" height="2841" alt="1bv5dm8 - Imgur" src="https://github.com/user-attachments/assets/e71d36b0-c193-49d7-bba5-0fe9d34d2b21" />
+
+Step 9: Once Windows Server 2019 has loaded up, click on Next and click to Install. Click on Windows Server 2019 Standard Evaluation (Desktop Experience). Check the box to Accept the License Terms and then click next. After that click on Custom: Install Windows only (advanced). Then click Next. Then it's going to be installing Windows Server 2019
+
+<img width="4021" height="2611" alt="rzJoJsQ - Imgur" src="https://github.com/user-attachments/assets/4b978d6d-9e95-41da-8d92-04ddb6cc58e9" />
+<img width="4032" height="2731" alt="c6hNJAo - Imgur" src="https://github.com/user-attachments/assets/e95c01ab-0356-48f6-98a3-b3707b254a52" />
+<img width="4032" height="2856" alt="msV5l9m - Imgur" src="https://github.com/user-attachments/assets/c60bde8f-b10f-4037-84bf-1369399bf5c4" />
+<img width="4032" height="2839" alt="XIIVKD8 - Imgur (1)" src="https://github.com/user-attachments/assets/474af7b1-0911-4f4d-b012-d519834d0d5e" />
+<img width="3996" height="2740" alt="TisSqtI - Imgur" src="https://github.com/user-attachments/assets/ffe4541d-2b79-439d-aa4c-e2a268cd964a" />
+
 
 
 
