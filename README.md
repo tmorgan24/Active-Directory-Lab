@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
  <h2>Description</h2>
-In this lab we're going to walk through how to create an Active Directory home lab Enviornmet using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows networking works, so I'd highhly recommend running through it a couple of times, ask questions where stuff is unclear, and eventually try to build it on your without watching. Also if you scroll down there is a program walk through on how to setup Group Policy Mangement through Active Drirectory. Please let me know if you have any questions!
+In this lab we're going to walk through how to create an Active Directory home lab Enviornmet using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows networking works, so I'd highhly recommend running through it a couple of times, ask questions where stuff is unclear, and eventually try to build it on your without watching. Also if you scroll down there is a program walk through on how to setup Group Policy Mangement Password Policy through Active Drirectory. Please let me know if you have any questions!
 <br/>
 
 
@@ -42,6 +42,13 @@ Step 6: Click on Systems and under Motherboard tab next to base memory type in 2
 
 <img width="4032" height="2554" alt="1hdC49B - Imgur" src="https://github.com/user-attachments/assets/946f5ce4-7145-4b24-aab8-6672117563a5" />
 <img width="4032" height="2611" alt="4E35mtW - Imgur" src="https://github.com/user-attachments/assets/d0a12508-fc09-4b6d-8220-0e709f0b01b3" />
+
+Step 7: We are creating our Domain Control so we want to have two NICs. We want one that's dicated for Internet that will be running NAT and one dicated for internal VM network. So you will click on Network and click on Adapter 2. Then click on Enable Network Adapter. After that click on Attached to drop down and select Internal Network. Then hit OK.
+
+<img width="3915" height="2573" alt="DrxCVbT - Imgur" src="https://github.com/user-attachments/assets/96c65994-4e40-414c-849c-afba91dca704" />
+<img width="4032" height="2766" alt="1aZ5d6W - Imgur" src="https://github.com/user-attachments/assets/15c17bf7-713d-47b0-b58e-18885050433c" />
+
+
 
 
 
