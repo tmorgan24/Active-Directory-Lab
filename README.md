@@ -62,7 +62,9 @@ Step 9: Once Windows Server 2019 has loaded up, click on Next and click to Insta
 <img width="4032" height="2839" alt="XIIVKD8 - Imgur (1)" src="https://github.com/user-attachments/assets/474af7b1-0911-4f4d-b012-d519834d0d5e" />
 <img width="3996" height="2740" alt="TisSqtI - Imgur" src="https://github.com/user-attachments/assets/ffe4541d-2b79-439d-aa4c-e2a268cd964a" />
 
+Step 10: Once the Server 2019 finish downloading then you will have to setup a password for the built in admiinistator accout and we will use Password1 as the password and click Finish.
 
+<img width="4032" height="2856" alt="dFg37h7 - Imgur" src="https://github.com/user-attachments/assets/398144c2-4d24-4607-ba13-9cdd50b04f7c" />
 
 
 
